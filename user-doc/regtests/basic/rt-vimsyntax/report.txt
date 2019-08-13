@@ -1,0 +1,8 @@
+Tue Aug 13 10:25:01 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-vimsyntax
+++ Test type: plumed
+++ Arguments: vim2html --annotate-syntax plumed.dat annotation.dat
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-vimsyntax/tmp
+

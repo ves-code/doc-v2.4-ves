@@ -1,0 +1,7 @@
+Tue Aug 13 10:34:01 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/mapping/rt40-mpi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 50 --timestep 0.005 --ixyz diala_traj_nm.xyz --dump-forces forces --dump-forces-fmt=%10.6f
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/mapping/rt40-mpi/tmp

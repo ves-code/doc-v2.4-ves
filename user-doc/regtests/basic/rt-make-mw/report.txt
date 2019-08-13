@@ -1,0 +1,11 @@
+Tue Aug 13 10:19:58 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-make-mw
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-make-mw/tmp
+main.cpp: In function ‘void go(PLMD::Plumed&, int, unsigned int, unsigned int)’:
+main.cpp:9:22: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(unsigned i=0;i<natoms;i++) positions[i]=i+iw+is;
+                      ^

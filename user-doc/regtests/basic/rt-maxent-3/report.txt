@@ -1,0 +1,8 @@
+Tue Aug 13 10:20:07 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-maxent-3
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_xtc traj.xtc --dump-forces forces --multi 6 --dump-forces-fmt=%8.4f
+++ Processors: 6
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-maxent-3/tmp
+Checking for matheval

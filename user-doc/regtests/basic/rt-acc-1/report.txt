@@ -1,0 +1,8 @@
+Tue Aug 13 10:18:05 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-acc-1
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep 1.0 --trajectory-stride 0 --ixtc aladip.xtc
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-acc-1/tmp
+Checking for xdrfile

@@ -1,0 +1,8 @@
+Tue Aug 13 10:37:41 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-md_le-2d
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-md_le-2d/tmp
+Checking for ves

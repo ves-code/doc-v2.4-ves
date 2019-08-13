@@ -1,0 +1,8 @@
+Tue Aug 13 10:37:16 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-prefactors
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-prefactors/tmp
+Checking for ves

@@ -1,0 +1,8 @@
+Tue Aug 13 10:31:59 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/isdb/rt-noe-mpi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 10 --timestep 0.005 --ixyz ala12_trajectory.xyz --multi 2
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/isdb/rt-noe-mpi/tmp
+Checking for cregex

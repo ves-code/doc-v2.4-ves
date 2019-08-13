@@ -1,0 +1,8 @@
+Tue Aug 13 10:23:35 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-molfile-1
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 1 --timestep 0.005 --pdb diala.pdb --mf_xtc traj.xtc --dump-forces forces --dump-forces-fmt=%10.6f
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-molfile-1/tmp
+Checking for molfile_plugins

@@ -1,0 +1,7 @@
+Tue Aug 13 10:23:47 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi2
+++ Test type: driver
+++ Arguments: --debug-dd yes --plumed=plumed.dat --timestep=0.05 --ixyz trajectory.xyz --dump-forces ff --pdb test.pdb
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi2/tmp

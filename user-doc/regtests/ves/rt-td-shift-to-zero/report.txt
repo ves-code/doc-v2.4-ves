@@ -1,0 +1,8 @@
+Tue Aug 13 10:38:11 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-td-shift-to-zero
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --noatoms
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/ves/rt-td-shift-to-zero/tmp
+Checking for ves

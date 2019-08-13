@@ -1,0 +1,7 @@
+Tue Aug 13 10:34:44 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/multicolvar/rt-link
+++ Test type: make
+++ Arguments: 
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/multicolvar/rt-link/tmp

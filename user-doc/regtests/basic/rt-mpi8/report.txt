@@ -1,0 +1,8 @@
+Tue Aug 13 10:24:44 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi8
+++ Test type: driver
+++ Arguments: --plumed=plumed.dat --timestep=0.05 --ixyz trajectory.xyz --dump-forces ff --multi 3
+      --debug-dd yes --debug-grex 2 --debug-grex-log log.grex
+++ Processors: 6
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi8/tmp

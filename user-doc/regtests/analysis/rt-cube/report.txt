@@ -1,0 +1,7 @@
+Tue Aug 13 10:15:57 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/analysis/rt-cube
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz trajectory.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/analysis/rt-cube/tmp

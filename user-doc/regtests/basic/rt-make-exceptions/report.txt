@@ -1,0 +1,16 @@
+Tue Aug 13 10:19:55 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-make-exceptions
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-make-exceptions/tmp
+Checking for dlopen
+Checking for exceptions
+main.cpp: In function ‘int main()’:
+main.cpp:58:24: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for(unsigned i=0;i<3*natoms;i++) positions[i]=i;
+                        ^
+main.cpp:139:26: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for(unsigned i=0;i<3*natoms;i++) positions[i]=i*step;
+                          ^

@@ -1,0 +1,8 @@
+Tue Aug 13 10:13:50 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/adjmat/rt-sprint
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz isomers.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/adjmat/rt-sprint/tmp
+Checking for adjmat

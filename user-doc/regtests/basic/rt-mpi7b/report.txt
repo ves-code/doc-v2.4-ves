@@ -1,0 +1,8 @@
+Tue Aug 13 10:24:40 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi7b
+++ Test type: driver
+++ Arguments: --plumed=plumed.dat --timestep=0.05 --ixyz trajectory.xyz --multi 3
+++ Processors: 3
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-mpi7b/tmp
+Checking for zlib

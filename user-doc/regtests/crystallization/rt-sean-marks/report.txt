@@ -1,0 +1,8 @@
+Tue Aug 13 10:26:36 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/crystallization/rt-sean-marks
+++ Test type: driver
+++ Arguments: --timestep 0.002 --trajectory-stride 500 --dump-forces forces_bias_lambdav.out --mf_xtc some_frames.xtc
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/crystallization/rt-sean-marks/tmp
+Checking for crystallization

@@ -1,0 +1,13 @@
+<map id="PLMD::adjmat::AdjacencyMatrixBase" name="PLMD::adjmat::AdjacencyMatrixBase">
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1adjmat_1_1_aligned_matrix_base.html" title="PLMD::adjmat::AlignedMatrixBase" alt="" coords="862,41,1085,68"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1adjmat_1_1_contact_matrix.html" title="Provides the keyword CONTACT_MATRIX &#160;" alt="" coords="875,92,1071,119"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1adjmat_1_1_h_bond_matrix.html" title="Provides the keyword HBOND_MATRIX &#160;" alt="" coords="878,143,1069,169"/>
+<area shape="rect" id="node12" href="$class_p_l_m_d_1_1adjmat_1_1_topology_matrix.html" title="Provides the keyword TOPOLOGY_MATRIX &#160;" alt="" coords="872,193,1075,220"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="384,110,523,151"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="167,67,326,93"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,117,109,144"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_action_with_value.html" title=" &#160;Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have som..." alt="" coords="165,117,329,144"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title=" &#160;This is used to create PLMD::Action objects that are computed by calculating the same function mult..." alt="" coords="157,169,336,210"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1adjmat_1_1_contact_aligned_matrix.html" title="Provides the keyword ALIGNED_MATRIX &#160;" alt="" coords="1133,5,1336,46"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1adjmat_1_1_s_m_a_c_matrix.html" title="Provides the keyword SMAC_MATRIX &#160;" alt="" coords="1140,71,1329,97"/>
+</map>

@@ -1,0 +1,8 @@
+Tue Aug 13 10:25:21 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/crystallization/rt-averaged-q6-spAspB
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz traj_md-10.xyz --length-units A --dump-forces forces --dump-forces-fmt=%8.4f
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/crystallization/rt-averaged-q6-spAspB/tmp
+Checking for crystallization
